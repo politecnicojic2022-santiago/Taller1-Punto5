@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listacompras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="listacompras.xsd">
+    <venta>
+        <ventaacredito>
+            <cantidad>27</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>2021-12-01</fechafinpago>
+            <cantidad>37</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>53</cantidad>
+            <divisa>COP</divisa>
+        </ventainmediata>
+    </venta>
+</listacompras>
